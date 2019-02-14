@@ -13,7 +13,9 @@ public class CalculatorNgisa {
     
    public int  Add(int q,int b){
    int ans = q+b; 
+   
    return ans;
+   
     }
     
 }

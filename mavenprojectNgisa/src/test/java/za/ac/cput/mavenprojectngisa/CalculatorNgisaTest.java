@@ -28,7 +28,7 @@ public class CalculatorNgisaTest {
         int result = instance.Add(q, b);
         assertEquals(expResult, result);
         fail("The test case is a prototype.");
-        
+        //i dont understan
         
     }
     
